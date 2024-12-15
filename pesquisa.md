@@ -83,3 +83,8 @@
 | Sandra Souza Rodrigues | http://lattes.cnpq.br/9045942728517339 | 2023 | Usability Guidelines for Children's Educational Mobile Applications | RENOTE. REVISTA NOVAS TECNOLOGIAS NA EDUCAÇÃO (1679-1916) | periodico | A4 |
 | Sandra Souza Rodrigues | http://lattes.cnpq.br/9045942728517339 | 2023 | Towards Design Guidelines for IoT Applications considering Elderly Users | Brazilian Symposium on Human Factors in Computing Systems (IHC) | evento | A3 |
 | Tamara Rezende Marques | http://lattes.cnpq.br/3077644124832760 | 2024 | Trypsin Inhibitor of Ricinus communis L. (Euphorbiaceae) in the Control of Spodoptera frugiperda (Smith, 1797) (Lepidoptera: Noctuidae) | AGRONOMY-BASEL (2073-4395) | periodico | A2 |
+
+
+# Publicações entre 2023 a 2024 
+
+![enter image description here](https://github.com/johnatan-si/ICTIN/blob/main/img/2023a2024.png)
